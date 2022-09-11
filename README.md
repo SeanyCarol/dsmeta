@@ -9,7 +9,7 @@
 ## Tecnologias
 - Frontend com ReactJS, TypeScript e Bootstrap e publicação no Netlify
 - Backend com Java Spring Boot e implantação no Heroku
-- Banco de dados relacional PostgreSQL
+- Banco de dados H2
 
 ## 💻 Projeto
 
